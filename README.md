@@ -20,5 +20,5 @@ Recentemente, apliquei meus conhecimentos de tecnologia no setor de engenharia a
 3. **Analytics para Engenharia Ambiental:** Extração de insights estratégicos através de análise gráfica de dados operacionais, além do desenvolvimento do portal web da empresa.
 
 ### 📫 Como me encontrar
-- [LinkedIn](www.linkedin.com/in/joão-937616215)
+- [LinkedIn] www.linkedin.com/in/joão-937616215
 - E-mail: j.pedroamaralfp@gmail.com
